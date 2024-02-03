@@ -1,0 +1,2 @@
+!function(){var n,o={};o.g=function(){if("object"==typeof globalThis)return globalThis;try{return this||new Function("return this")()}catch(n){if("object"==typeof window)return window}}(),(n="undefined"!=typeof window?window:void 0!==o.g?o.g:"undefined"!=typeof self?self:{}).SENTRY_RELEASE={id:"4.1.20240201.2"},n.SENTRY_RELEASES=n.SENTRY_RELEASES||{},n.SENTRY_RELEASES["royal-road-frontend@royal-road"]={id:"4.1.20240201.2"}}();
+//# sourceMappingURL=elastic-rum.js.map
